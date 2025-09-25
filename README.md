@@ -21,7 +21,7 @@
 
 ### Interactive Filters
 **Before filter selection:**  
-![Before Filter](screenshots/Interaction_Before.png)  
+![Before Filter](screenshots/Interaction_Before.png)
 
 **After filter selection:**  
 ![After Filter](screenshots/Interaction_After.png)
