@@ -8,7 +8,6 @@
 - `data/` → (optional, add CSV exports here for raw/cleaned data)  
 
 ---
-
 ## Dashboard Preview
 
 ### Main Dashboard
@@ -25,7 +24,7 @@
 ![Before Filter](screenshots/Interaction_Before.png)  
 
 **After filter selection:**  
-![After Filter](screenshots/Interaction_After.png)  
+![After Filter](screenshots/Interaction_After.png)
 
 ---
 
