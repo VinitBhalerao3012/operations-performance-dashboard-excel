@@ -11,20 +11,20 @@
 ## Dashboard Preview
 
 ### Main Dashboard
-![Main Dashboard](screenshots/main_dashboard.png)
+![Main Dashboard](excel/screenshots/main_dashboard.png)
 
 ### Trend Analysis
-![Trend Chart](screenshots/trend_chart.png)
+![Trend Chart](excel/screenshots/trend_chart.png)
 
 ### Category Breakdown
-![Category Comparison](screenshots/CountryXCategory.png)
+![Category Comparison](excel/screenshots/Country%20X%20Category.png)
 
 ### Interactive Filters
 **Before filter selection:**  
-![Before Filter](screenshots/Interaction_Before.png)
+![Before Filter](excel/screenshots/Interaction_Before.png)  
 
 **After filter selection:**  
-![After Filter](screenshots/Interaction_After.png)
+![After Filter](excel/screenshots/Interaction_After.png)
 
 ---
 
