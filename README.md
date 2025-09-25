@@ -17,7 +17,7 @@
 ![Trend Chart](screenshots/trend_chart.png)
 
 ### Category Breakdown
-![Category Comparison](screenshots/Country%20X%20Category.png)
+![Category Comparison](screenshots/Country X Category.png)
 
 ### Interactive Filters
 **Before filter selection:**  
